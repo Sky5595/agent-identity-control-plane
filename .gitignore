@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+audit_events.jsonl
+.venv/
